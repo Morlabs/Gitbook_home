@@ -12,7 +12,7 @@
 
 * [DAO Constitution](governance/dao-constitution.md)
 * [Trinity DAO](governance/trinity-dao.md)
-* [The TIPs](governance/the-tips.md)
+* [The TIP Process](governance/the-tip-process.md)
 
 ## Contribute
 
@@ -21,4 +21,8 @@
 
 ## Sub-DAOs
 
-* [DeFi Sub-DAO](sub-daos/defi-sub-dao.md)
+* [Protocol](sub-daos/protocol.md)
+* [Product](sub-daos/product.md)
+* [Talent](sub-daos/talent.md)
+* [Community](sub-daos/community.md)
+* [DeFi](sub-daos/defi.md)

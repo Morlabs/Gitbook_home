@@ -26,7 +26,7 @@ You can view a list of the [Open Positions](https://github.com/Morlabs/Contribut
 
 **New ideas**\
 \
-If you would like to work on something new, not already included within the [Approved Projects](https://github.com/README.md), you should [create a TIP](../governance/the-tips.md). Should it receive positive community feedback, the TIP can then put be to a DAO vote. \
+If you would like to work on something new, not already included within the [Approved Projects](https://github.com/README.md), you should [create a TIP](../governance/the-tip-process.md). Should it receive positive community feedback, the TIP can then put be to a DAO vote. \
 \
 **Not sure where to start?**&#x20;
 

@@ -1,4 +1,4 @@
-# DeFi Sub-DAO
+# DeFi
 
 ## Sources of Trinity DAO Capital
 
