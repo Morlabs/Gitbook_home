@@ -7,7 +7,6 @@
 ***
 
 * [Trinity Whitepaper](trinity-whitepaper.md)
-* [Page](page.md)
 
 ## Governance
 
@@ -19,3 +18,7 @@
 
 * [Contribution Guidelines](resources/resource-1.md)
 * [Remuneration](contribute/remuneration.md)
+
+## Sub-DAOs
+
+* [DeFi Sub-DAO](sub-daos/defi-sub-dao.md)
