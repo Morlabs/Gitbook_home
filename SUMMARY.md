@@ -15,6 +15,6 @@
 * [Trinity DAO](governance/trinity-dao.md)
 * [The TIPs](governance/the-tips.md)
 
-## Resources
+## Contribute
 
-* [Resource 1](resources/resource-1.md)
+* [Contribution Guidelines](contribute/contribution-guidelines.md)
