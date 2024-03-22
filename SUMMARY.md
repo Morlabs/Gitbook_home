@@ -10,8 +10,8 @@
 
 ## Governance
 
-* [DAO Constitution](governance/dao-constitution.md)
 * [Trinity DAO](governance/trinity-dao.md)
+* [DAO Constitution](governance/dao-constitution.md)
 * [The TIP Process](governance/the-tip-process.md)
 
 ## Contribute
