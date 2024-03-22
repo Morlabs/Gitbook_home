@@ -44,19 +44,13 @@ Each sub-DAO operates under the guidance of its own council, which is responsibl
    * Gather and analyze product feedback to improve user experience.
    * Foster a collaborative environment for learning and innovation.
    * Represent community interests in governance discussions.
-4. **Ethics & Compliance Sub-DAO**
-   * Advise on ethical practices in AI and blockchain development.
-   * Ensure operations adhere to relevant regulations and guidelines.
-   * Develop ethical and compliance frameworks, policies, and guidelines.
-   * Educate members on ethical considerations and compliance matters.
-   * Integrate ethics and compliance considerations into DAO activities.
-5. **Talent & Knowledge Sub-DAO**
+4. **Talent & Knowledge Sub-DAO**
    * Attract, recruit, and retain talent to meet the DAO's needs.
    * Manage knowledge transfer and documentation to preserve organizational memory.
    * Implement smooth offboarding processes for departing members.
    * Curate and maintain a comprehensive knowledge base.
    * Identify talent needs and knowledge gaps within the organization.
-6. **Product Sub-DAOs**
+5. **Product Sub-DAOs**
    * Define product visions and roadmaps for the DAO's digital offerings.
    * Oversee the development and management of platforms and marketplaces.
    * Gather and prioritize user requirements and feedback.
