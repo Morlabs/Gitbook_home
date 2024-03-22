@@ -1,6 +1,10 @@
 # DeFi
 
-## Sources of Trinity DAO Capital
+### Responsibilities
+
+DeFi Sub-DAO Develop investment strategies for the DAO's assets. Ensure regulatory compliance and manage risks. Analyze market trends to optimize investment returns. Facilitate governance and decision
+
+### Liquidity
 
 Trinity DAO leverages various funding sources, aimed at ensuring a robust and sustainable financial model for the DAO's initiatives.
 
