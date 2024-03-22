@@ -18,3 +18,4 @@
 ## Contribute
 
 * [Contribution Guidelines](resources/resource-1.md)
+* [Remuneration](contribute/remuneration.md)
