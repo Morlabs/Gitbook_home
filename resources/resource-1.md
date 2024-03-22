@@ -22,7 +22,7 @@ Contributors in Trinity DAO undertake tasks and projects aligned with their Sub-
 \
 As a guideline, Council members typically require Contributors to complete at least 3 paid bounties for the Sub-DAO before they would consider a more permanent engagement. \
 \
-You can view a list of the Open Positions. If you see something you like, follow the application process listed on the relevant position.&#x20;
+You can view a list of the [Open Positions](https://github.com/Morlabs/Contributions/tree/main/Recurring\_tasks/Open\_positions). If you see something you like, follow the application process listed on the relevant position.&#x20;
 
 **New ideas**\
 \
