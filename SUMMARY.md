@@ -17,4 +17,4 @@
 
 ## Contribute
 
-* [Contribution Guidelines](contribute/contribution-guidelines.md)
+* [Contribution Guidelines](resources/resource-1.md)
