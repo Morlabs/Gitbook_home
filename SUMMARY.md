@@ -22,7 +22,7 @@
 ## Sub-DAOs
 
 * [Protocol](sub-daos/protocol.md)
-* [Product](sub-daos/product.md)
-* [Talent](sub-daos/talent.md)
+* [Product Sub-DAO](sub-daos/product-sub-dao.md)
+* [Talent Sub-DAO](sub-daos/talent-sub-dao.md)
 * [Community](sub-daos/community.md)
 * [DeFi](sub-daos/defi.md)

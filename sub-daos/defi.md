@@ -7,7 +7,7 @@
 * Analyze market trends to optimize investment returns.&#x20;
 * Facilitate governance and decision
 
-### Liquidity
+### Resources
 
 Trinity DAO leverages various funding sources, aimed at ensuring a robust and sustainable financial model for the DAO's initiatives.
 

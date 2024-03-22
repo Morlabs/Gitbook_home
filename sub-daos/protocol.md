@@ -1,6 +1,6 @@
 # Protocol
 
-#### Responsibilities
+### Responsibilities
 
 * Develop and maintain the DAO's technological infrastructure.
 * Ensure security and efficiency of the DAO's digital assets.
