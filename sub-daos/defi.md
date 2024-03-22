@@ -2,7 +2,10 @@
 
 ### Responsibilities
 
-DeFi Sub-DAO Develop investment strategies for the DAO's assets. Ensure regulatory compliance and manage risks. Analyze market trends to optimize investment returns. Facilitate governance and decision
+* Develop investment strategies for the DAO's assets.&#x20;
+* Ensure regulatory compliance and manage risks.&#x20;
+* Analyze market trends to optimize investment returns.&#x20;
+* Facilitate governance and decision
 
 ### Liquidity
 
