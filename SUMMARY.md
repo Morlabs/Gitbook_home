@@ -29,7 +29,6 @@
 
 ## Resources
 
-* [Multi-agent framework](resources/multi-agent-framework.md)
 * [Smart Agent installation](resources/smart-agent-installation/README.md)
   * [Windows](resources/smart-agent-installation/windows.md)
   * [Mac](resources/smart-agent-installation/mac.md)
@@ -38,5 +37,6 @@
 * [NFA Advanced Tools](resources/nfa-advanced-tools.md)
 * [NFA marketplace](resources/nfa-marketplace.md)
 * [NFA Investment Platform](resources/nfa-investment-platform.md)
+* [Multi-agent framework](resources/multi-agent-framework.md)
 * [Multi-chain compatibility](resources/multi-chain-compatibility.md)
 * [Tokenomics](resources/tokenomics.md)
