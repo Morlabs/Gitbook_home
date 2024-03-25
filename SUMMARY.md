@@ -35,6 +35,6 @@
   * [Linux](resources/smart-agent-installation/linux.md)
 * [Non-Fungible Agents (NFAs)](resources/non-fungible-agents-nfas.md)
 * [NFA Advanced Tools](resources/nfa-advanced-tools.md)
-* [Smart Agents marketplace](resources/smart-agents-marketplace.md)
+* [NFA marketplace](resources/nfa-marketplace.md)
 * [Multi-chain compatibility](resources/multi-chain-compatibility.md)
 * [Tokenomics](resources/tokenomics.md)
