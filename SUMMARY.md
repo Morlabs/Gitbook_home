@@ -29,12 +29,12 @@
 
 ## Resources
 
-* [Non-Fungible Agents (NFAs)](resources/non-fungible-agents-nfas.md)
 * [Smart Agent installation](resources/smart-agent-installation/README.md)
   * [Windows](resources/smart-agent-installation/windows.md)
   * [Mac](resources/smart-agent-installation/mac.md)
   * [Linux](resources/smart-agent-installation/linux.md)
-* [Smart Agent marketplace](resources/smart-agent-marketplace.md)
+* [Non-Fungible Agents (NFAs)](resources/non-fungible-agents-nfas.md)
+* [NFA Advanced Tools](resources/nfa-advanced-tools.md)
 * [Smart Agents marketplace](resources/smart-agents-marketplace.md)
 * [Multi-chain compatibility](resources/multi-chain-compatibility.md)
 * [Tokenomics](resources/tokenomics.md)
