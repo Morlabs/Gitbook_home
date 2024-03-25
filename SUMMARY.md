@@ -26,3 +26,14 @@
 * [Talent Sub-DAO](sub-daos/talent-sub-dao.md)
 * [Community](sub-daos/community.md)
 * [DeFi](sub-daos/defi.md)
+
+## Resources
+
+* [Smart Agent installation](resources/smart-agent-installation/README.md)
+  * [Windows](resources/smart-agent-installation/windows.md)
+  * [Mac](resources/smart-agent-installation/mac.md)
+  * [Linux](resources/smart-agent-installation/linux.md)
+* [Smart Agent tools](resources/smart-agent-tools.md)
+* [Smart Agents marketplace](resources/smart-agents-marketplace.md)
+* [Multi-chain compatibility](resources/multi-chain-compatibility.md)
+* [Tokenomics](resources/tokenomics.md)
