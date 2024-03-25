@@ -29,6 +29,7 @@
 
 ## Resources
 
+* [Multi-agent framework](resources/multi-agent-framework.md)
 * [Smart Agent installation](resources/smart-agent-installation/README.md)
   * [Windows](resources/smart-agent-installation/windows.md)
   * [Mac](resources/smart-agent-installation/mac.md)
