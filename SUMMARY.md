@@ -29,6 +29,7 @@
 
 ## Resources
 
+* [NFA Investment Platform](resources/nfa-investment-platform.md)
 * [Smart Agent installation](resources/smart-agent-installation/README.md)
   * [Windows](resources/smart-agent-installation/windows.md)
   * [Mac](resources/smart-agent-installation/mac.md)
